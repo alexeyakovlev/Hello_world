@@ -1,0 +1,15 @@
+C:\Users\alexi\OneDrive\Рабочий стол\Programming_Lesson1\Hello_world\Project7\obj\Debug\net6.0\Project7.csproj.AssemblyReference.cache
+C:\Users\alexi\OneDrive\Рабочий стол\Programming_Lesson1\Hello_world\Project7\obj\Debug\net6.0\Project7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\OneDrive\Рабочий стол\Programming_Lesson1\Hello_world\Project7\obj\Debug\net6.0\Project7.AssemblyInfoInputs.cache
+C:\Users\alexi\OneDrive\Рабочий стол\Programming_Lesson1\Hello_world\Project7\obj\Debug\net6.0\Project7.AssemblyInfo.cs
+C:\Users\alexi\OneDrive\Рабочий стол\Programming_Lesson1\Hello_world\Project7\obj\Debug\net6.0\Project7.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Рабочий стол\Programming_Lesson1\Hello_world\Project7\bin\Debug\net6.0\Project7.exe
+C:\Users\alexi\OneDrive\Рабочий стол\Programming_Lesson1\Hello_world\Project7\bin\Debug\net6.0\Project7.deps.json
+C:\Users\alexi\OneDrive\Рабочий стол\Programming_Lesson1\Hello_world\Project7\bin\Debug\net6.0\Project7.runtimeconfig.json
+C:\Users\alexi\OneDrive\Рабочий стол\Programming_Lesson1\Hello_world\Project7\bin\Debug\net6.0\Project7.dll
+C:\Users\alexi\OneDrive\Рабочий стол\Programming_Lesson1\Hello_world\Project7\bin\Debug\net6.0\Project7.pdb
+C:\Users\alexi\OneDrive\Рабочий стол\Programming_Lesson1\Hello_world\Project7\obj\Debug\net6.0\Project7.dll
+C:\Users\alexi\OneDrive\Рабочий стол\Programming_Lesson1\Hello_world\Project7\obj\Debug\net6.0\refint\Project7.dll
+C:\Users\alexi\OneDrive\Рабочий стол\Programming_Lesson1\Hello_world\Project7\obj\Debug\net6.0\Project7.pdb
+C:\Users\alexi\OneDrive\Рабочий стол\Programming_Lesson1\Hello_world\Project7\obj\Debug\net6.0\Project7.genruntimeconfig.cache
+C:\Users\alexi\OneDrive\Рабочий стол\Programming_Lesson1\Hello_world\Project7\obj\Debug\net6.0\ref\Project7.dll
